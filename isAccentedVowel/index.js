@@ -1,0 +1,1 @@
+module.exports = ( letter ) => [ `á`, `é`, `ó`, `ú`, `í` ].indexOf( letter.toLowerCase() ) !== -1;
